@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0334-increasing-triplet-subsequence) |
 ## Greedy
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Quicksort
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
