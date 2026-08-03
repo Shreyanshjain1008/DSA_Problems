@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0041-first-missing-positive) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0334-increasing-triplet-subsequence) |
 ## Greedy
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0334-increasing-triplet-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
