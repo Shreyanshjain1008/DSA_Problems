@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0162-find-peak-element](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0283-move-zeroes) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
