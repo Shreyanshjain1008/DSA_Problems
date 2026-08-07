@@ -1,12 +1,12 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        arr=[]
-        for i in range(len(nums)):
-            for j in range (i+1,len(nums)):
-                if nums[i]+nums[j]==target:
-                    arr.append(i)
-                    arr.append(j)
-                    return arr
+        D = {}
+        n = len(nums)
+        for i in range(n):
+            if target-nums[i] in D:
+                return [i,D[target-nums[i]]]
+            D[nums[i]] =  i
+        
         """
         :type nums: List[int]
         :type target: int
