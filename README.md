@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0041-first-missing-positive) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0412-fizz-buzz) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0202-happy-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
