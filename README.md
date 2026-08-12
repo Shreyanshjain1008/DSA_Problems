@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0179-largest-number) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
