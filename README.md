@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2029-stone-game-ix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [2029-stone-game-ix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Longest Increasing Subsequence
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [2029-stone-game-ix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0169-majority-element) |
+| [2029-stone-game-ix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
@@ -197,4 +201,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
