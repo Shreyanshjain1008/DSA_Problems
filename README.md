@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0268-missing-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -217,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2029-stone-game-ix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
