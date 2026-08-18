@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2029-stone-game-ix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Greedy
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0268-missing-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
