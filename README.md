@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0191-number-of-1-bits) |
 | [0324-wiggle-sort-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0268-missing-number) |
 ## Stack
