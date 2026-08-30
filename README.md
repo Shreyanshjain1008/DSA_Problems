@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [2029-stone-game-ix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Longest Increasing Subsequence
 |  |
