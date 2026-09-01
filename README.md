@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0169-majority-element) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0412-fizz-buzz) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0844-backspace-string-compare) |
 ## Tree
