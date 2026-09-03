@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0556-next-greater-element-iii) |
 | [0844-backspace-string-compare](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0925-long-pressed-name) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Floyd's Cycle Finding Algorithm
