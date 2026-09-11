@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0041-first-missing-positive) |
+| [0138-copy-list-with-random-pointer](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0202-happy-number) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0237-delete-node-in-a-linked-list) |
