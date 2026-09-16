@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0922-sort-array-by-parity-ii) |
+| [0962-maximum-width-ramp](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0962-maximum-width-ramp) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0925-long-pressed-name) |
+| [0962-maximum-width-ramp](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0962-maximum-width-ramp) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Quicksort
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0844-backspace-string-compare) |
+| [0962-maximum-width-ramp](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0962-maximum-width-ramp) |
 ## Tree
 |  |
 | ------- |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0496-next-greater-element-i) |
+| [0962-maximum-width-ramp](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0962-maximum-width-ramp) |
 ## Bracket Sequences
 |  |
 | ------- |
