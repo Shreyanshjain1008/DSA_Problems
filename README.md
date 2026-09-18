@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0041-first-missing-positive) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0191-number-of-1-bits) |
 | [0324-wiggle-sort-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
