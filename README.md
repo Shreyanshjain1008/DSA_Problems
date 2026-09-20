@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0925-long-pressed-name) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0844-backspace-string-compare) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
 |  |
 | ------- |
