@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
