@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0242-valid-anagram) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0202-happy-number) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3498-reverse-degree-of-a-string) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0268-missing-number) |
