@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0268-missing-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0409-longest-palindrome) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
