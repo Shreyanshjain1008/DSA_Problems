@@ -6,7 +6,6 @@ class Solution(object):
         for i in range(1, n+1):
             if n % i == 0 :
                 special_sum += nums[i-1]**2
-                print(special_sum)
         return special_sum
 
         """
