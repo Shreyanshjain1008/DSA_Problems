@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3870-count-commas-in-range](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3498-reverse-degree-of-a-string) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Counting Sort
 |  |
 | ------- |
