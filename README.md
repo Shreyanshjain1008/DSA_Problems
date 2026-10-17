@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0049-group-anagrams) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0020-valid-parentheses) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0069-sqrtx) |
