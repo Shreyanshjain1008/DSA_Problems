@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0485-max-consecutive-ones](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0692-top-k-frequent-words) |
