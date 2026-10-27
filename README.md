@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0962-maximum-width-ramp](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0962-maximum-width-ramp) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/1929-concatenation-of-array) |
