@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0016-3sum-closest) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0118-pascals-triangle) |
@@ -582,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
