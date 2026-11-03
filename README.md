@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3903-smallest-stable-index-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
