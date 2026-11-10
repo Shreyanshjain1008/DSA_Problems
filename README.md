@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0556-next-greater-element-iii) |
 | [0692-top-k-frequent-words](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0709-to-lower-case) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0556-next-greater-element-iii) |
 | [0844-backspace-string-compare](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
