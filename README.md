@@ -626,4 +626,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0196-delete-duplicate-emails) |
+| [0511-game-play-analysis-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
