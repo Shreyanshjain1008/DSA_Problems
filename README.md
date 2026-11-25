@@ -629,4 +629,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0620-not-boring-movies) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
