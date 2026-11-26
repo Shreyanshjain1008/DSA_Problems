@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3360-stone-removal-game) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3870-count-commas-in-range) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Shreyanshjain1008/DSA_Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Counting Sort
